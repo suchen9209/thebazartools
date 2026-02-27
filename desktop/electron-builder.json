@@ -1,0 +1,20 @@
+{
+  "appId": "com.bazaar.assistant",
+  "productName": "大巴扎助手",
+  "directories": {
+    "output": "release"
+  },
+  "files": [
+    "dist/**/*",
+    "resources/**/*"
+  ],
+  "mac": {
+    "target": ["dmg", "zip"]
+  },
+  "win": {
+    "target": ["nsis", "portable"]
+  },
+  "linux": {
+    "target": ["AppImage", "deb"]
+  }
+}

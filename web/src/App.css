@@ -1,0 +1,6 @@
+.app-content {
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  min-height: calc(100vh - 112px);
+}

@@ -1,0 +1,532 @@
+{
+  "source": "bazaardb.gg",
+  "updatedAt": "2026-02-26T10:13:04.518Z",
+  "total": 35,
+  "data": [
+    {
+      "id": "1f72700a-fe11-4792-8a47-9e52b9387f29",
+      "name": "戈尔迪",
+      "nameEn": "Goldie",
+      "description": {
+        "Text": "出售黄金级物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7bec736da723e764df89b10e3863d4f958343bd8@256.webp?v=6"
+    },
+    {
+      "id": "3e871bbb-fb25-417f-8643-cb43456c3fc7",
+      "name": "托克钟表店",
+      "nameEn": "Tok's Clocks",
+      "description": {
+        "Text": "出售加速、减速及冷却物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Dooley",
+        "Vanessa",
+        "Mak",
+        "Jules",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/f3451895ce61b49e3fd0f816b816b3f70ccb3368@256.webp?v=6"
+    },
+    {
+      "id": "e48b3243-1e7e-4a97-bf4f-0699fd0b4616",
+      "name": "斯黛尔",
+      "nameEn": "Stelle",
+      "description": {
+        "Text": "从该英雄处购买物品  "
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "Pygmalien",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/dde4009253a0afd0785e0ee34eefd896fa4b63c5@256.webp?v=6"
+    },
+    {
+      "id": "b1288f12-2cf9-4473-a43e-4dd521703990",
+      "name": "时精",
+      "nameEn": "Chronos",
+      "description": {
+        "Text": "出售加速物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/fa1c7872940298da97e80edbcc6a4363f5aaeb15@256.webp?v=6"
+    },
+    {
+      "id": "bcdaa6d4-9057-4ea1-8110-a2dae217c55f",
+      "name": "普洛斯佩罗",
+      "nameEn": "Prospero",
+      "description": {
+        "Text": "出售经济物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Pygmalien"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9dfac6fb48a0fb92a5a3ca187c0f3a73cdd3812e@256.webp?v=6"
+    },
+    {
+      "id": "7fdc233f-b81f-4216-a646-4c807c2240da",
+      "name": "朱尔斯",
+      "nameEn": "Jules",
+      "description": {
+        "Text": "从该英雄处购买物品  "
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle",
+        "Dooley",
+        "Mak",
+        "Pygmalien",
+        "Vanessa"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b47743c478628cec1a12a6602e2cd98cc90d72fa@256.webp?v=6"
+    },
+    {
+      "id": "4580fb31-b2ea-4f9b-9ab9-2979602f83d8",
+      "name": "杜利",
+      "nameEn": "Dooley",
+      "description": {
+        "Text": "从该英雄处购买物品  "
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/5c37ebbc8f12e27ae1205606891d07049caf2223@256.webp?v=6"
+    },
+    {
+      "id": "85db60ee-3619-4e39-bfb2-2f4ac56f172b",
+      "name": "杰杰",
+      "nameEn": "Jay Jay",
+      "description": {
+        "Text": "出售物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/0abfc199aedf7883d4af81dfa08a1357845c0fbc@256.webp?v=6"
+    },
+    {
+      "id": "8f0aea10-9894-4ded-a726-72b23142589c",
+      "name": "橡树君",
+      "nameEn": "Barkun",
+      "description": {
+        "Text": "出售中型与大型物品。对小型物品的收购价+{aura.3}。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/91846399d16358c633d1a89178c8f2d0b8e33f83@256.webp?v=6"
+    },
+    {
+      "id": "065f6793-8607-4f02-abfe-db6afb221ab2",
+      "name": "波尔",
+      "nameEn": "Pol",
+      "description": {
+        "Text": "出售大型物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/8bca2b9c4021e18a92cf62245ead5602e7869e7b@256.webp?v=6"
+    },
+    {
+      "id": "41cdf4ee-7790-4da1-96f8-a46d3391a0d9",
+      "name": "测试家",
+      "nameEn": "The Tester",
+      "description": {
+        "Text": "出售任意英雄的科技物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Dooley",
+        "Vanessa",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/451f00d30158cbcc7e2905fe33774bd80577f2b2@256.webp?v=6"
+    },
+    {
+      "id": "dc12f4bd-6c33-41f0-b7ad-d62a0be09a47",
+      "name": "爱伊拉",
+      "nameEn": "Aila",
+      "description": {
+        "Text": "出售武器"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/178c966fbb3de4ac7175d281d1740533dc0ab98c@256.webp?v=6"
+    },
+    {
+      "id": "c3d9c329-0db6-478e-ad0f-ef2ae78834ce",
+      "name": "猪大厨",
+      "nameEn": "Gastro",
+      "description": {
+        "Text": "出售食物"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/cfc32bc656dacfc6f458b38f0a656277f1d4352b@256.webp?v=6"
+    },
+    {
+      "id": "580ba494-a852-4d80-a82d-5cd66fcfd2f3",
+      "name": "瓦内莎",
+      "nameEn": "Vanessa",
+      "description": {
+        "Text": "从该英雄处购买物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle",
+        "Dooley",
+        "Mak",
+        "Pygmalien",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b341e7934a7427a43e546d879a61087ee5a249ac@256.webp?v=6"
+    },
+    {
+      "id": "e3b894b0-a078-4b1d-8793-ac6459a8361a",
+      "name": "瓦尔帕克",
+      "nameEn": "Valpak",
+      "description": {
+        "Text": "出售物品。总是有折扣物品出售。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/15dea774ddcc30ea366a937fc3c808bf19bc010b@256.webp?v=6"
+    },
+    {
+      "id": "2745a661-095c-44a5-bb6e-8dc76e07bda2",
+      "name": "癫茄",
+      "nameEn": "Knightshade",
+      "description": {
+        "Text": "出售剧毒物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b7bfef73ca3f40a35655bf56ff156e3cce08e633@256.webp?v=6"
+    },
+    {
+      "id": "f9074804-1812-445a-8688-b8c86f9c7711",
+      "name": "皮格马利翁",
+      "nameEn": "Pygmalien",
+      "description": {
+        "Text": "从该英雄处购买物品  "
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle",
+        "Dooley",
+        "Mak",
+        "Vanessa",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9cdcc6acc30cef8bc859498f02b2589c49f252d9@256.webp?v=6"
+    },
+    {
+      "id": "b8f55bb0-536e-4d5f-a328-d38f88c6d479",
+      "name": "米兹沃斯",
+      "nameEn": "Midsworth",
+      "description": {
+        "Text": "出售小型与大型物品。对中型物品的收购价+{aura.3}。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/113ce60ee8fdcf1e62320d8f76a365fff8ed6d9e@256.webp?v=6"
+    },
+    {
+      "id": "912c8b09-3b76-4aa1-8e21-245e0dfb5046",
+      "name": "米透",
+      "nameEn": "Mittel",
+      "description": {
+        "Text": "出售中型物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/d144735d830d6f55cab449ced4fbadebb673b9e2@256.webp?v=6"
+    },
+    {
+      "id": "847b1294-649d-4f02-ab04-0ee9f838c462",
+      "name": "翼罗",
+      "nameEn": "Aero",
+      "description": {
+        "Text": "出售载具"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e897bdf8aaf45a0c29a44e6c81352e407137631c@256.webp?v=6"
+    },
+    {
+      "id": "7bd967dd-4631-4252-bdff-ee0bd5e3ddb7",
+      "name": "肌肉王",
+      "nameEn": "Flex",
+      "description": {
+        "Text": "出售最大生命值物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Pygmalien"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/92871a1fdaf1f3da179190e7b03100b4d1f6512c@256.webp?v=6"
+    },
+    {
+      "id": "f22fd14f-7e00-40cb-9e44-a46f34d64764",
+      "name": "自瞄机",
+      "nameEn": "Aimbot",
+      "description": {
+        "Text": "出售任意英雄的暴击物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/d57aa960aeb8a3db9b9134a0892eefbcc39b8f9d@256.webp?v=6"
+    },
+    {
+      "id": "0ff275f7-60ef-4428-acb6-1a138d03152d",
+      "name": "艾利",
+      "nameEn": "Eli",
+      "description": {
+        "Text": "出售药水"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Mak"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e4fd3c5cb115d019c59849f00531c32fedb52fbc@256.webp?v=6"
+    },
+    {
+      "id": "c246ee53-51ea-40c1-ac2f-71435e179531",
+      "name": "芙蕾雅",
+      "nameEn": "Freiya",
+      "description": {
+        "Text": "出售冻结物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/62abca8396c7a2318365488d685ff382600ea16e@256.webp?v=6"
+    },
+    {
+      "id": "323e2c05-f077-4774-84a5-9e89d8d1c9b9",
+      "name": "葵仙子",
+      "nameEn": "Quixel",
+      "description": {
+        "Text": "出售小型与中型物品。对大型物品的收购价+{aura.3}。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/13ee1d0aa3a892b5651a789225942d793749c4b7@256.webp?v=6"
+    },
+    {
+      "id": "ef25f92c-484a-48de-b6de-8fc6429823ca",
+      "name": "蛛网",
+      "nameEn": "Cobweb",
+      "description": {
+        "Text": "出售减速物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/1c2b8ef5419739da0e1ef2233bd3cb29a1766ae8@256.webp?v=6"
+    },
+    {
+      "id": "ec81a27c-590c-43a1-a353-804a23b5e5d9",
+      "name": "西尔维娅",
+      "nameEn": "Silvia",
+      "description": {
+        "Text": "出售白银级物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7903da97fd041531134ffe1222b17208742d4750@256.webp?v=6"
+    },
+    {
+      "id": "1a21931f-6183-4251-914b-c8f83dc58a30",
+      "name": "诺提卡",
+      "nameEn": "Nautica",
+      "description": {
+        "Text": "出售水系物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Vanessa"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/99d642dc64e5a35a085eee12cd2a869fe59c7658@256.webp?v=6"
+    },
+    {
+      "id": "43dbd6ed-6989-4ae4-acdc-f8bfcb8a008f",
+      "name": "贺夫",
+      "nameEn": "Hef",
+      "description": {
+        "Text": "出售灼烧物品。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4818076098049b8aa28e2eefea0bea1e05b4138e@256.webp?v=6"
+    },
+    {
+      "id": "b690812d-108b-49ce-82f3-e1a41379022c",
+      "name": "赛拉菲娜",
+      "nameEn": "Serafina",
+      "description": {
+        "Text": "出售附魔物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4b5173d0a6dd5394055a1c1b6cf3df769264fbd3@256.webp?v=6"
+    },
+    {
+      "id": "2708055d-a8be-4c2f-a8d6-574e884a254e",
+      "name": "赫玛",
+      "nameEn": "Herma",
+      "description": {
+        "Text": "出售治疗和生命再生物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Pygmalien",
+        "Mak",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/07f469245e431fa0b40912eb62353cb35e9fb39b@256.webp?v=6"
+    },
+    {
+      "id": "892de564-d894-4e07-ab21-959e16e8cdf8",
+      "name": "路克斯",
+      "nameEn": "Luxe",
+      "description": {
+        "Text": "出售钻石级物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/aa6123000160e32707bd01dced697d25440838f5@256.webp?v=6"
+    },
+    {
+      "id": "7066e72e-40b7-4104-b521-159de457f2d0",
+      "name": "针羽",
+      "nameEn": "Pinfeather",
+      "description": {
+        "Text": "出售飞行物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/68e56afa23bdcb6a7b449f6319216716c6637cea@256.webp?v=6"
+    },
+    {
+      "id": "4475cff5-6105-4f4a-978c-b282e36173eb",
+      "name": "马克",
+      "nameEn": "Mak",
+      "description": {
+        "Text": "从该英雄处购买物品  "
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Stelle",
+        "Dooley",
+        "Vanessa",
+        "Pygmalien",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/44bf7d63c75daae0ccc0d009f348c1e00c477743@256.webp?v=6"
+    },
+    {
+      "id": "e30d8bef-5bea-4e95-b4c2-e29e17325a82",
+      "name": "默兰德先生",
+      "nameEn": "Mr. Morland",
+      "description": {
+        "Text": "出售地产物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Pygmalien"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6c3bae5f0523ce3a7a1387102f49e1ebcc202776@256.webp?v=6"
+    }
+  ]
+}

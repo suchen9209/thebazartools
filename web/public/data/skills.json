@@ -1,0 +1,2303 @@
+{
+  "source": "bazaardb.gg",
+  "updatedAt": "2026-02-26T10:13:04.471Z",
+  "total": 141,
+  "data": [
+    {
+      "id": "7919e8b0-d749-4c13-892e-bc794c8cf06e",
+      "name": "Heat Shield",
+      "nameEn": "Heat Shield",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Stelle",
+        "BurnReference",
+        "Shield"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4d5e5f10890643280e476183c93fb1cdf418dff9@256.webp?v=6"
+    },
+    {
+      "id": "2c637e34-ea4d-4532-9118-fddd9e637342",
+      "name": "Improvised Heal",
+      "nameEn": "Improvised Heal",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "HealReference",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/181671ea70bf3069ae5306c51c2583798ce0c41d@256.webp?v=6"
+    },
+    {
+      "id": "f9628cc5-fdf8-49cf-8807-d7b85f457aa8",
+      "name": "一发入魂",
+      "nameEn": "One Shot, One Kill",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3bc28d66b36cb9d3f7d53bb4722e6449ba4e271d@256.webp?v=6"
+    },
+    {
+      "id": "2a8dc6f4-d77a-4231-8329-5c02e51a5230",
+      "name": "万物互联",
+      "nameEn": "It's All Connected",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Apparel",
+        "Weapon",
+        "Tool",
+        "Tech",
+        "Friend",
+        "Common",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/84aada44d44d4414fca247b8f5114ac7e208ce1a@256.webp?v=6"
+    },
+    {
+      "id": "3c9eefb8-f348-486b-9ec2-a4920f71bee4",
+      "name": "上油机械",
+      "nameEn": "Well-Oiled Machine",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Core",
+        "Dooley",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/98e7dfa49a828b8d4d8eed8a36b493f979aec07b@256.webp?v=6"
+    },
+    {
+      "id": "fb409226-bf38-4275-b775-7fab879a1d6f",
+      "name": "上膛工具",
+      "nameEn": "Retool",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Common",
+        "AmmoReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/acde8142986e42de5a6c5dde2775262c40e9c9ef@256.webp?v=6"
+    },
+    {
+      "id": "c1ffec09-0567-47fe-b80e-4f55f62ee7fd",
+      "name": "不择手段",
+      "nameEn": "Anything to Win",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Charge",
+        "BurnReference",
+        "PoisonReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/2b694daac604362afb75d7462639f1c37bf581fe@256.webp?v=6"
+    },
+    {
+      "id": "6c3d41e4-1ca7-4be5-b0e2-6cadbbd2bd27",
+      "name": "专业行头",
+      "nameEn": "Tools of the Trade",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Haste"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e574178218db100bdbc6eb440ed961f50e78611b@256.webp?v=6"
+    },
+    {
+      "id": "5fca38e0-2144-422d-b9bd-85a3cd443215",
+      "name": "专家飞行员",
+      "nameEn": "Expert Pilot",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Vehicle",
+        "Weapon",
+        "Stelle",
+        "DamageReference",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/ba3c14ac5b6c0b9cee0054d2d1abfc9680a5dcd7@256.webp?v=6"
+    },
+    {
+      "id": "03968f2d-5f40-464a-bf1f-9475836157cd",
+      "name": "临修工匠",
+      "nameEn": "Jury Rigger",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Ammo"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/af5c6514f738c92b921fee77e127ce6aec00b58c@256.webp?v=6"
+    },
+    {
+      "id": "3510040e-9d43-4e2a-867e-96cc6740a139",
+      "name": "临时军火",
+      "nameEn": "Improvised Weaponry",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "Jules",
+        "DamageReference",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b142ab91106f89fabc31a009a24d905e8e4e3a72@256.webp?v=6"
+    },
+    {
+      "id": "d8e7fa0a-9127-4a11-a84e-d479a011a92d",
+      "name": "临时毒物",
+      "nameEn": "Improvised Poison",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Mak",
+        "PoisonReference",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/55aeaa5d2e72e01748df2093c2446ea124a7ef76@256.webp?v=6"
+    },
+    {
+      "id": "1e8293e9-c60f-464a-9d44-21e766978edc",
+      "name": "临时灼烧",
+      "nameEn": "Improvised Burn",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Mak",
+        "Jules",
+        "Stelle",
+        "Dooley",
+        "BurnReference",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6c947865b8b1a93c2f6c717a2840aa1710d86907@256.webp?v=6"
+    },
+    {
+      "id": "fd927bfc-ff5a-4d9c-87ce-b9510a22e444",
+      "name": "临时防护",
+      "nameEn": "Improvised Protection",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "ShieldReference",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/26b5564dd653b6010068245137678782742eeab7@256.webp?v=6"
+    },
+    {
+      "id": "c3f674a0-4025-45e1-b611-bf70fd6f279c",
+      "name": "举重",
+      "nameEn": "Lifting",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Pygmalien",
+        "Vanessa",
+        "Jules",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/be68b7f40319b6d97dd0abc99d8d1ed5419af2bd@256.webp?v=6"
+    },
+    {
+      "id": "c149f8da-b64e-46f4-bf80-f6f4cae88fbc",
+      "name": "乔迁礼物",
+      "nameEn": "Housewarming Gifts",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/215ea9cebccadcc61c820a57df3310ef3290c151@256.webp?v=6"
+    },
+    {
+      "id": "cf20ff77-7f51-42ca-8451-a3a1befe3d66",
+      "name": "云朵之上",
+      "nameEn": "Above the Clouds",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Stelle",
+        "Crit",
+        "FlyingReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3d52fc7c5998946a3a8fde82e99292af4075ba6e@256.webp?v=6"
+    },
+    {
+      "id": "43b5e350-ec7f-4236-aaa4-fbcd0c7721de",
+      "name": "产品展示台",
+      "nameEn": "Product Showcase",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Ammo",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/70c85f614b9aea4ef8045d5a96e5c2b63ed95acc@256.webp?v=6"
+    },
+    {
+      "id": "318e27ee-611e-4e8b-bf3b-ae9982494453",
+      "name": "以攻为守",
+      "nameEn": "The Best Defense",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/de903e1ce832e626d6e5ca2f524513d32465009d@256.webp?v=6"
+    },
+    {
+      "id": "dfe40f90-61de-46dc-b807-0da587140e9d",
+      "name": "伏击",
+      "nameEn": "Ambush",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Damage"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e02fcb79f2538a57ab41742aed7f0868911c29cf@256.webp?v=6"
+    },
+    {
+      "id": "b0b38699-beb0-4012-b4f0-bc424f4ba787",
+      "name": "优质房产",
+      "nameEn": "Prime Real Estate",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a8179c939a96360911fb431d87c1d9f70a82a2f2@256.webp?v=6"
+    },
+    {
+      "id": "e781d7bd-a660-4d5a-a9bf-a7f015a14661",
+      "name": "伙伴卡",
+      "nameEn": "Friendzone",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Friend",
+        "Common",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7ad7271d012890e303f03ac739990c37f8c494cb@256.webp?v=6"
+    },
+    {
+      "id": "fa2dfc79-67be-4307-95d9-b4279ab58900",
+      "name": "伙伴系统",
+      "nameEn": "Buddy System",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Core",
+        "Tech",
+        "Friend",
+        "Dooley",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4b4a349b85d7bcfe3973b4fa9d52186f09bee8b2@256.webp?v=6"
+    },
+    {
+      "id": "7a301c09-3e32-473a-ba6c-89097657a400",
+      "name": "侧翼暴击",
+      "nameEn": "Flanking Criticals",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9ba9ee05c292e06592702363e7a519f7478780be@256.webp?v=6"
+    },
+    {
+      "id": "65a77e2d-6c13-46c2-ae28-c521502a8be3",
+      "name": "便民诊所",
+      "nameEn": "Walk-in Clinic",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Mak",
+        "Jules",
+        "RegenReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4b82c3613a192e3ad32fce9df5638d4d7af880b2@256.webp?v=6"
+    },
+    {
+      "id": "1798b189-818a-456d-b7c5-efddf8da15c2",
+      "name": "修复技师",
+      "nameEn": "Repair Mechanic",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Stelle",
+        "Dooley",
+        "Pygmalien",
+        "Jules",
+        "Mak",
+        "Vanessa"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/f286483f160ac2f5bc40dc468344622fcd347121@256.webp?v=6"
+    },
+    {
+      "id": "b76a00ad-8034-4ad8-9f55-9fdc279cf60e",
+      "name": "修理时间",
+      "nameEn": "Time to Tinker",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Shield",
+        "HasteReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/78855f2934caa57473e4b616270e7dff79de1390@256.webp?v=6"
+    },
+    {
+      "id": "81881146-f3ba-4092-9041-9f68cc30b732",
+      "name": "倦怠",
+      "nameEn": "Lethargy",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Jules",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/132fb614b179d09a9dba2c8089fe011edec09768@256.webp?v=6"
+    },
+    {
+      "id": "3b4c3700-6c77-4954-a3e1-dfeaeab08c4a",
+      "name": "假装努力",
+      "nameEn": "Hardly Workin'",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Jules",
+        "SlowReference",
+        "RegenReference",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/888697e1b81c53b0f79fa3845dd11321c2aac9fa@256.webp?v=6"
+    },
+    {
+      "id": "cb4e5a04-ef5f-40e7-bc1c-bd90baf2f5d0",
+      "name": "健康友谊",
+      "nameEn": "Healthy Friendship",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Friend",
+        "Common",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e4e9f9f5a47239be63df639d795a20c7750ecd19@256.webp?v=6"
+    },
+    {
+      "id": "05ec8652-3c5f-4cba-acd1-c3eee8e49d44",
+      "name": "健康心脏",
+      "nameEn": "Healthy Heart",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Health",
+        "Heal"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/633dd31012a0e334ab22e118e959781486c0bff9@256.webp?v=6"
+    },
+    {
+      "id": "09f668a1-82f6-42d5-94fa-88af3568edd8",
+      "name": "催眠吸取",
+      "nameEn": "Hypnotic Drain",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "Freeze",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b70365f681bee63d5c2d146808f548f84d9796a9@256.webp?v=6"
+    },
+    {
+      "id": "a1975546-334f-4137-85cc-43a4c8ae49f3",
+      "name": "元气恢复",
+      "nameEn": "Regenerative",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Mak",
+        "Jules",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/62aef87abef2e185b2b53fc9543f385d5948b442@256.webp?v=6"
+    },
+    {
+      "id": "544be6e9-ff3e-4cb6-9759-498ac2d24d71",
+      "name": "兄弟别激动",
+      "nameEn": "Relax Bro",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/5bf747f9b5883d3f89d4f25c8581b4dea214325c@256.webp?v=6"
+    },
+    {
+      "id": "ef12c160-99ce-4171-a7ba-7fccaaafa239",
+      "name": "先发制人",
+      "nameEn": "First Strike",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/bc1b2852a1088e642c6865e9e972d37104131314@256.webp?v=6"
+    },
+    {
+      "id": "64727f7e-adfd-4f25-aa4e-1f127b9d5b70",
+      "name": "光说不练",
+      "nameEn": "All Talk",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "DamageReference",
+        "HealthReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/820e83319d3d67c248e446b2c6e48c01870d3c9c@256.webp?v=6"
+    },
+    {
+      "id": "0d8cd0dc-67ab-4c3c-b11c-88e78559a900",
+      "name": "免费乘车",
+      "nameEn": "Free Ride",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Vehicle",
+        "Common",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/38eb837b33fea714d571014fcdb4f858b836d1f4@256.webp?v=6"
+    },
+    {
+      "id": "3849770c-59df-4471-b0b0-f02713be8bb0",
+      "name": "全副武装",
+      "nameEn": "Full Arsenal",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Vehicle",
+        "Weapon",
+        "Tool",
+        "Common",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/886ba9a059a4d77873111c0ac645e9a9053783e8@256.webp?v=6"
+    },
+    {
+      "id": "178d4272-35c7-4d10-9deb-58d074d2cbea",
+      "name": "全能手",
+      "nameEn": "Jack of All Trades",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/22869c343ab24af01b03d51c8a433c4179577db0@256.webp?v=6"
+    },
+    {
+      "id": "ae41f574-fc9f-492a-8ae0-45853ab607a6",
+      "name": "关键投资",
+      "nameEn": "Critical Investments",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Toy",
+        "Pygmalien",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/498adbe47be90eb2f9f94f8bc99dad4076fed014@256.webp?v=6"
+    },
+    {
+      "id": "f1c3b934-254a-459f-9078-023edbcfcb03",
+      "name": "养生囤积狂",
+      "nameEn": "Healthy Hoarder",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/eb9d8bac0dc45d90fc0fc0f2fa7437851f2f82b5@256.webp?v=6"
+    },
+    {
+      "id": "76ac0aa6-ef43-4a5b-9a30-f0ab4186dc83",
+      "name": "养生秘法",
+      "nameEn": "Healthy Lifestyle",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Mak",
+        "Jules",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/93867ec8ee51f3a6887676423a96964116fc265e@256.webp?v=6"
+    },
+    {
+      "id": "04168bfd-eac1-40ff-ad34-bc10cb92e636",
+      "name": "最初一剂",
+      "nameEn": "Initial Dose",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "PoisonReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a5fb41d026375a4d081343dedcd3750467688bad@256.webp?v=6"
+    },
+    {
+      "id": "1aa32e3b-fb93-4d4e-9630-f6168cd77cdc",
+      "name": "最后一剂",
+      "nameEn": "Final Dose",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "PoisonReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a6c6e65bebaf05527fcfc2eff6c7e4935422709e@256.webp?v=6"
+    },
+    {
+      "id": "fb502edf-88fa-48a4-bd99-5e368a38c9ab",
+      "name": "最爱玩具",
+      "nameEn": "Favorite Toy",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Toy",
+        "Pygmalien",
+        "Damage",
+        "Shield",
+        "Heal"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4d25c1b512706dae95daf7f8e93e2a84b6086bd5@256.webp?v=6"
+    },
+    {
+      "id": "1c4c5aaa-6aa2-4329-a55a-ac75e987ee95",
+      "name": "军备竞赛",
+      "nameEn": "Arms Race",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9e08ac321de2026fb46b0db23f7770e1e8a6e32a@256.webp?v=6"
+    },
+    {
+      "id": "560a532c-73f4-4edd-b197-0127e2ca4cc9",
+      "name": "军火商",
+      "nameEn": "Arms Dealer",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "Jules",
+        "Stelle",
+        "Health"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/02cf0f0257887a16ea9ec51562115e234e9c2f97@256.webp?v=6"
+    },
+    {
+      "id": "ed63ead8-5ba3-4972-b547-b1791484fccf",
+      "name": "农田直供",
+      "nameEn": "Farm to Table",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Jules",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Jules",
+        "Health"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/887b98a5e8cfcba8a7a936d85df284aa941d4e62@256.webp?v=6"
+    },
+    {
+      "id": "b7edb810-2ead-4e1c-965d-d787eacc6fd3",
+      "name": "冰碎",
+      "nameEn": "Shatter",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "FreezeReference",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3f3bf01b9ba2adf01a6a449b283c8478d460b95c@256.webp?v=6"
+    },
+    {
+      "id": "dec273b3-155e-4fbd-9629-5dbd2900e032",
+      "name": "冷却剂泄露",
+      "nameEn": "Coolant Leak",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Dooley",
+        "Jules",
+        "Mak",
+        "Stelle",
+        "FreezeReference",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6ffadfbe36ae4e88be23ff7a283c065da75e36e3@256.webp?v=6"
+    },
+    {
+      "id": "6914df97-567f-4d9a-9473-d3de39a09e86",
+      "name": "冻结射击",
+      "nameEn": "Frozen Shot",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Pygmalien",
+        "Dooley",
+        "Jules",
+        "Mak",
+        "FreezeReference",
+        "Cooldown",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e511ed31c4085ea130c6c35f6156f622e058eaf7@256.webp?v=6"
+    },
+    {
+      "id": "1252064a-3bf4-478e-9326-946677ecc8b3",
+      "name": "冻结秘密",
+      "nameEn": "Frozen Secrets",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Freeze"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/87a9daaafc1827181c18da43939200804e7b9855@256.webp?v=6"
+    },
+    {
+      "id": "e5602f0a-0f7f-4832-97cc-59bc7b605804",
+      "name": "冻结突触",
+      "nameEn": "Frozen Synapse",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Core",
+        "Dooley",
+        "Haste",
+        "FreezeReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a4e826390b87b4f36b9611252beb14fd1c9558f7@256.webp?v=6"
+    },
+    {
+      "id": "8e02521d-4353-4a1d-9d2e-80f6f1e22f53",
+      "name": "净化烈焰",
+      "nameEn": "Purifying Flame",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "BurnReference",
+        "RegenReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/32040391c2643a9d6a695c82d0d37404f9ba62fb@256.webp?v=6"
+    },
+    {
+      "id": "3c90df05-0cf7-4555-bebc-4eedd5d46356",
+      "name": "凌空的刺激",
+      "nameEn": "Thrill of the Flight",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Stelle",
+        "FlyingReference",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a83dcb2f817f2f2c23a739c4ce09a441d262b7f8@256.webp?v=6"
+    },
+    {
+      "id": "1448f669-4c0f-4f86-a23c-00fb647b1153",
+      "name": "减速目标",
+      "nameEn": "Slowed Targets",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Mak",
+        "Jules",
+        "Stelle",
+        "SlowReference",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/edf95b60f02025c735ce0ccfb6359bdc564ccbba@256.webp?v=6"
+    },
+    {
+      "id": "8d41a164-2667-4df4-91ed-3da224b8c63a",
+      "name": "凝聚之怒",
+      "nameEn": "Focused Rage",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/eedf1bba1a30203247f26e7cfe2a2fcb7e264fd5@256.webp?v=6"
+    },
+    {
+      "id": "c9c884fd-849e-4541-b770-4658c2e6e609",
+      "name": "凶风",
+      "nameEn": "Foreboding Winds",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "CritReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/34661a4066913586bd7e29259410a0947526a411@256.webp?v=6"
+    },
+    {
+      "id": "b3c4ed70-958a-42e5-b4d4-16b27c03ac54",
+      "name": "刀技",
+      "nameEn": "Knife Tricks",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Cooldown",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/872698221e215a7451d8e4d09a351303d2973105@256.webp?v=6"
+    },
+    {
+      "id": "b57df6d6-fc6c-4401-ad41-77f83388eabe",
+      "name": "分配系统",
+      "nameEn": "Distributed Systems",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Haste"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/963b2838f5a40ccf5cdbd8a34068b39c786ede1d@256.webp?v=6"
+    },
+    {
+      "id": "f6a49c4a-7ee7-4aa7-8162-392eee2d3835",
+      "name": "初焰",
+      "nameEn": "First Flames",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Pygmalien",
+        "Burn"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e0f7d4a411a86413bd14ced5b70448998c542e91@256.webp?v=6"
+    },
+    {
+      "id": "e8d23247-5164-4096-a4cc-db5bb2a5277d",
+      "name": "到碗里来",
+      "nameEn": "I Would Eat That",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Jules",
+      "tags": [
+        "Skill",
+        "Food",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/c4f2f3f9d629bcbd3850869a99429c960d31c026@256.webp?v=6"
+    },
+    {
+      "id": "b7b9f86e-689d-44ec-889d-026e8d45081c",
+      "name": "前向护盾",
+      "nameEn": "Frontal Shielding",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/809d3209b20e86d8429d9fbff34e05eca6ff1fc9@256.webp?v=6"
+    },
+    {
+      "id": "2b081d19-8f82-44fd-b6d2-0daeaf97a85e",
+      "name": "前线勤务",
+      "nameEn": "Frontline Logistics",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "AmmoReference",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/328e024d7e235123160761edb9cc15bcea9df78d@256.webp?v=6"
+    },
+    {
+      "id": "6f593cc1-b44a-43d6-a83b-a68fb477aef2",
+      "name": "剧毒之血",
+      "nameEn": "Venomous Vitality",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Mak",
+        "Regen",
+        "PoisonReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e58dd131e3a875023d621ad9e99719aa90a3a5d1@256.webp?v=6"
+    },
+    {
+      "id": "9d7c0a60-c957-4513-81d8-2ba957b58fb1",
+      "name": "剧毒喷溅",
+      "nameEn": "Poisonous Opener",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "Poison"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/fd4bcc104511a2fe33def2356adc86e6cc551ef7@256.webp?v=6"
+    },
+    {
+      "id": "b89ebdeb-1954-47c8-97fe-8cc3008f2a25",
+      "name": "剧毒暴君",
+      "nameEn": "Poison Tyrant",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Regen",
+        "PoisonReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/aa301ee91488538c18265088d474589260e7b35b@256.webp?v=6"
+    },
+    {
+      "id": "fbbfbef7-8fe4-4ac0-81fa-09afb59e0fcc",
+      "name": "力量",
+      "nameEn": "Strength",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Dooley",
+        "Vanessa",
+        "Pygmalien",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/63ecb0d003abf600af5b166d58a3b6c347c860af@256.webp?v=6"
+    },
+    {
+      "id": "d53d5ba0-b087-42a2-9523-2a44d9001e07",
+      "name": "势不可挡",
+      "nameEn": "Inexorable",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/1d8f64591b74f69bfec968afd6009b9f7cdb90bd@256.webp?v=6"
+    },
+    {
+      "id": "76ae19fd-2783-4c21-919a-cdce66bb8948",
+      "name": "勤奋工作",
+      "nameEn": "Workin' Hard",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Haste"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/12459fb4c8d67aa2ffc7f4ee23adb5be1116682b@256.webp?v=6"
+    },
+    {
+      "id": "3715da61-af37-49c6-aa7d-68804484b685",
+      "name": "化学燃焰",
+      "nameEn": "Chemical Fire",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Vanessa",
+        "PoisonReference",
+        "BurnReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/39b2a9d1321196152ed55205f4f986380adff83b@256.webp?v=6"
+    },
+    {
+      "id": "8509674b-3c4b-4250-9bb4-666ef7402654",
+      "name": "化学精准",
+      "nameEn": "Alchemical Precision",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Potion",
+        "Mak",
+        "PotionReference",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/d00d1ab27c4e56445577cfcc3c996c0ea9cd2111@256.webp?v=6"
+    },
+    {
+      "id": "7ab9d9a7-09b2-4dab-b821-eaaf0fb84523",
+      "name": "厚皮",
+      "nameEn": "Thick Hide",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "SlowReference",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/cb30ade84d81cf43eda25b32600267637f99157b@256.webp?v=6"
+    },
+    {
+      "id": "a98aea6f-c1ee-4986-b6a1-7e6a5529199a",
+      "name": "原始狂怒",
+      "nameEn": "Primal Rage",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Relic",
+        "Dinosaur",
+        "Dooley",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/bc08daa0359571249a0a22a924d33ff769fd1d47@256.webp?v=6"
+    },
+    {
+      "id": "37efcae2-779d-4a60-95c6-0d663d7e0113",
+      "name": "双倍押注",
+      "nameEn": "Double Down",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/27a2e135fcae59b4e96847bfdc48f515ced18d36@256.webp?v=6"
+    },
+    {
+      "id": "4a443bdd-f949-4fb5-9ccd-a710f74d2311",
+      "name": "双持",
+      "nameEn": "Dual Wield",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6bdd15cae291a5d4b66f10134b52c635cdcfc7cc@256.webp?v=6"
+    },
+    {
+      "id": "c2e26fae-a435-44ff-8613-8977247ee972",
+      "name": "反侵入协议",
+      "nameEn": "Intrusion Countermeasures",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Friend",
+        "Dooley"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7f5b75f73474575e1fffee1885446dfef7983a3b@256.webp?v=6"
+    },
+    {
+      "id": "c5bff6ad-5d13-4cf3-9941-98f3cf913949",
+      "name": "反击",
+      "nameEn": "Counterstrike",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9ac42e04abbcc51448a5dde757fcefb3604b6ba3@256.webp?v=6"
+    },
+    {
+      "id": "13f4df45-8f29-4a48-8a2b-b8176e17c85d",
+      "name": "反击毒素",
+      "nameEn": "Retaliatory Toxins",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Poison"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a6d75038c80d130b31401ee3a53e1a76c9211e63@256.webp?v=6"
+    },
+    {
+      "id": "0526054f-98da-4e95-be68-d25b26bb0fe3",
+      "name": "受训",
+      "nameEn": "Trained",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "DamageReference",
+        "SlowReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/d4b044e45a8a5a5ab3cc14e3eed9e2ebe967f292@256.webp?v=6"
+    },
+    {
+      "id": "878440a6-99e8-4178-8d3f-38c94fb8c334",
+      "name": "口渴难耐",
+      "nameEn": "Thirsty",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Potion",
+        "Mak",
+        "PotionReference",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/778b5ed3cbeadfd7ec1b3a4f206ba1ce68f76f6c@256.webp?v=6"
+    },
+    {
+      "id": "b5160cb5-5d92-420b-8883-b67e701b5e5f",
+      "name": "右手紧握",
+      "nameEn": "Righty Tighty",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Mak",
+        "Vanessa",
+        "Jules",
+        "SlowReference",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/8aca6eea2efe2a88f39cffd7bbcdbd66cee6069b@256.webp?v=6"
+    },
+    {
+      "id": "18c6637b-14c7-4311-b853-e3fd74c613eb",
+      "name": "右撇子",
+      "nameEn": "Right-Handed",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Jules",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Dooley",
+        "Vanessa",
+        "Pygmalien",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/52fb508fbe2fdf58a220658850e23b2dbec09a5f@256.webp?v=6"
+    },
+    {
+      "id": "f38a0fb0-b94a-4701-9330-d14a943ac5c4",
+      "name": "右眼",
+      "nameEn": "Right Eye",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/14e15e805ac756fa0a15e5f2e7ae7fcc1eee102b@256.webp?v=6"
+    },
+    {
+      "id": "976d7de6-8191-44c4-8270-2ebc47775fe8",
+      "name": "后方防御",
+      "nameEn": "Rear Shielding",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a07c44aeed89591ecbd062e92d4647c34552c73e@256.webp?v=6"
+    },
+    {
+      "id": "c38468ba-2636-4818-a821-6fb7e73d7110",
+      "name": "吵闹蟋蟀",
+      "nameEn": "Noisy Cricket",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Dooley",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Stelle",
+        "Jules",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9191175aa3b1e9fab28870bacc014bcb35cfd6d7@256.webp?v=6"
+    },
+    {
+      "id": "d4471fb1-a60b-4f64-9c60-ae0e8c930306",
+      "name": "和平主义者",
+      "nameEn": "Pacifist",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Mak",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4967fc7c560227385552b1a5717ad66026dea86f@256.webp?v=6"
+    },
+    {
+      "id": "6ba408d1-dad1-4cf2-b0f9-2afe3cb94bb9",
+      "name": "唯一药水",
+      "nameEn": "The One Potion",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4d1822b61e08952a1044a7bba125963a25e420a2@256.webp?v=6"
+    },
+    {
+      "id": "e2bed270-5a6c-46ae-ab7e-a0d34f6da903",
+      "name": "商业区划",
+      "nameEn": "Commercial Zoning",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "Damage",
+        "EconomyReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/2ca436ddd04835de221d01e3319f14d93061ebe1@256.webp?v=6"
+    },
+    {
+      "id": "9cd3f8a9-3ca8-482b-8f4c-79f9d1d3400e",
+      "name": "商人",
+      "nameEn": "Trader",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Value"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7ca85cf43dc71438a214d163994e55c3cd0cfffe@256.webp?v=6"
+    },
+    {
+      "id": "f219c4c6-bb56-499a-894d-5dc689e22cb4",
+      "name": "嗜血",
+      "nameEn": "Bloodthirst",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Mak",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4ba65e67d5b82a64fa44913b1b22e0d027a4246e@256.webp?v=6"
+    },
+    {
+      "id": "13bcf77b-0ad0-4dd3-85ed-927799691a72",
+      "name": "回火再铸",
+      "nameEn": "Tempering",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "Jules",
+        "Stelle",
+        "Dooley",
+        "Mak",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7bfa1a49717498fd201b0593558598168e65cb11@256.webp?v=6"
+    },
+    {
+      "id": "61ffd0e3-a0fe-43d2-8112-85fc90580d71",
+      "name": "地产巨擘",
+      "nameEn": "Property Mogul",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "Health"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/8e6d0cb5ae253d85183cf99a39aef45b43885f8d@256.webp?v=6"
+    },
+    {
+      "id": "292f58c0-409b-4de7-a8d2-099a8629aa5e",
+      "name": "坚固",
+      "nameEn": "Toughness",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Dooley",
+        "Stelle",
+        "Jules",
+        "Vanessa",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/62ee8d8b02805bb8e558bfc8c684232129dfbf57@256.webp?v=6"
+    },
+    {
+      "id": "56450d16-bc69-43fd-bb89-4aff071cda29",
+      "name": "坚定不移",
+      "nameEn": "Unwavering",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Shield"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/97f57785e691f124c61e36f51ff836e62d6ad9df@256.webp?v=6"
+    },
+    {
+      "id": "c7261fd4-ef40-4091-abb2-dcf5694ae2ac",
+      "name": "坚韧不拔",
+      "nameEn": "Endurance",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Pygmalien",
+        "HealReference",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7e503e6258b516ad16ef80900e97a0f5662c6dc9@256.webp?v=6"
+    },
+    {
+      "id": "8a9a98fe-b1bd-4da7-8233-dffd3845aa45",
+      "name": "垃圾桶寻宝",
+      "nameEn": "Dumpster Diving",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Potion",
+        "Mak",
+        "PotionReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/066dc9831ed16c0e65ff8dbf10f6ab915b51ba55@256.webp?v=6"
+    },
+    {
+      "id": "4bcc9eeb-5fa9-4b1f-85b1-d3dfd198d38f",
+      "name": "增强军火",
+      "nameEn": "Augmented Weaponry",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/06d7a27be02d0a6fb1c0bee7a63cb887a7c9d0cb@256.webp?v=6"
+    },
+    {
+      "id": "c318939d-3ba2-41d8-ad5d-1b8267c0cf22",
+      "name": "增强防御",
+      "nameEn": "Augmented Defenses",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4ca8acaf7109fcb766b4c4727fcc7038487c0540@256.webp?v=6"
+    },
+    {
+      "id": "b9ac862b-7599-4d1c-96c7-99e4edaad05f",
+      "name": "备用护盾",
+      "nameEn": "Reserve Shield",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Shield",
+        "HealthReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/98d5fa468f7c00fcf75c30f51209ec8bb54300c4@256.webp?v=6"
+    },
+    {
+      "id": "ccb56c81-a3fb-4cd4-bf53-67b19a82458d",
+      "name": "备用收藏",
+      "nameEn": "Reserve Collection",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Relic",
+        "Mak"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/62d3fc7c5a668f6818d8352155bb32d8ad8006b5@256.webp?v=6"
+    },
+    {
+      "id": "9dacb0ad-a016-40ff-a54a-24d807c0988f",
+      "name": "复仇",
+      "nameEn": "Vengeance",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/1b9133723fa24595c4bebd90caadd6ac2f53d448@256.webp?v=6"
+    },
+    {
+      "id": "91339db7-21bb-47df-bca7-20b86555d7b1",
+      "name": "复古科技",
+      "nameEn": "Retro-Tech",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3cb1c0164153bd7f4bb77d7ccd8fa3d42b1ce83b@256.webp?v=6"
+    },
+    {
+      "id": "6b47d5d7-cd43-4efb-9e3b-5ee3c07a7f7d",
+      "name": "大步流星",
+      "nameEn": "Long Strides",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Mak",
+        "Stelle",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/86c04828a48b06c3ca486c1f6ae72ff75c5cbf86@256.webp?v=6"
+    },
+    {
+      "id": "113091ab-c543-4745-9dc4-18ab1cdfb3b8",
+      "name": "套利",
+      "nameEn": "Arbitrage",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Mak",
+        "Stelle",
+        "EconomyReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6fa84af9abe36380b67062377bf62ccb6466796f@256.webp?v=6"
+    },
+    {
+      "id": "756024f8-ad19-4f9b-a3c1-3a93c285b5d1",
+      "name": "好战",
+      "nameEn": "Aggressive",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "Crit",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/c7eae4a1189554a2e29a9519b1a6d68b85909929@256.webp?v=6"
+    },
+    {
+      "id": "a3695c78-63e4-45a9-a2b9-9b2827325527",
+      "name": "宁缺毋滥",
+      "nameEn": "Quality over Quantity",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "Pygmalien",
+        "Mak",
+        "Lifesteal",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/ee62e7754965ccbe339c90b49db6f6556c58d4b9@256.webp?v=6"
+    },
+    {
+      "id": "b76e0b9a-481c-4128-9ed3-a290f3b21b4f",
+      "name": "宁静之眼",
+      "nameEn": "Peaceful Eye",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/5422d518e7d079bd4f0d8e5c299604549945f108@256.webp?v=6"
+    },
+    {
+      "id": "870ed8e7-9c1f-4be0-b84c-00ebcf475a74",
+      "name": "宇宙风",
+      "nameEn": "Cosmic Wind",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "HasteReference",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b9d3518376ee75f64ed035718f8bcda2090e041b@256.webp?v=6"
+    },
+    {
+      "id": "5feded09-ce1a-40ef-9e66-af55ff8c0df5",
+      "name": "守护神之怒",
+      "nameEn": "Guardian's Fury",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Common",
+        "ShieldReference",
+        "Cooldown",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/c534686183c57ee7925c22a2c64f7e62e8aef02e@256.webp?v=6"
+    },
+    {
+      "id": "7ce449d2-0843-4fee-9bdf-dacf380afb8f",
+      "name": "定期维护",
+      "nameEn": "Regular Maintenance",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Stelle",
+        "FlyingReference",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/661abcd643298b254069ee932032bbd75275d702@256.webp?v=6"
+    },
+    {
+      "id": "abba2590-426d-449f-8f19-4a3bd51ae4fe",
+      "name": "实业家",
+      "nameEn": "Industrialist",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/2f5729288388e6f781725a66d9dc2dd6926bd499@256.webp?v=6"
+    },
+    {
+      "id": "71d7c241-d0f1-4153-a628-f618526fce4b",
+      "name": "实验流大厨",
+      "nameEn": "Experimental Chef",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Jules",
+      "tags": [
+        "Skill",
+        "Food",
+        "Tool",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/fb6abdce7ec42bdd11c2e6a658b88a044af8e166@256.webp?v=6"
+    },
+    {
+      "id": "d52f6759-3ab5-46f4-87d1-bc719634c0d8",
+      "name": "寒冰子弹",
+      "nameEn": "Ice Bullets",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Vanessa",
+        "FreezeReference",
+        "Ammo",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/11fa09efd1310fca386347d5b6bf304e4df0d4f7@256.webp?v=6"
+    },
+    {
+      "id": "2c4b4d14-19db-4d75-9fb6-a377d9ca9882",
+      "name": "寒霜之触",
+      "nameEn": "Chilling Touch",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "FreezeReference",
+        "Slow"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e36654cc17d6428cfb2a2eea783d5718d78d8449@256.webp?v=6"
+    },
+    {
+      "id": "05ea3ce6-0626-45c5-af36-a7711200d431",
+      "name": "寒霜初降",
+      "nameEn": "Initial Chill",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Jules",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Stelle",
+        "Freeze"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/d87bcc5f732a541a966b77157b4000d6d1abccd3@256.webp?v=6"
+    },
+    {
+      "id": "e9218caf-28ed-4e9a-a24b-358d4852d88b",
+      "name": "寒霜烈焰",
+      "nameEn": "Frostfire",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Vanessa",
+        "Mak",
+        "Jules",
+        "Stelle",
+        "Pygmalien",
+        "BurnReference",
+        "Freeze"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/de6c93e8b39696d37e8ac12da092e2f926c73edf@256.webp?v=6"
+    },
+    {
+      "id": "13989ad3-2122-4d86-a323-bb90fda8360b",
+      "name": "寻血猎犬",
+      "nameEn": "Bloodhound",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/52b484a4ab39721cf3d0c2b21e1c00e413eb32f3@256.webp?v=6"
+    },
+    {
+      "id": "36410add-d0de-4618-a099-ceb32a87c589",
+      "name": "小小舞者",
+      "nameEn": "Tiny Dancer",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Vanessa",
+        "Jules",
+        "Cooldown"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9c5208bdc4e5548cf116730c258cc42bb58b1e5e@256.webp?v=6"
+    },
+    {
+      "id": "18cd63c6-6235-45f5-b4e9-74f19fcf9edc",
+      "name": "工具斗法",
+      "nameEn": "Tool Fight",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Stelle",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Stelle",
+        "Flying"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3ab0ed0d5b377bf5ebc20926f449cf938550ecff@256.webp?v=6"
+    },
+    {
+      "id": "d1505b87-551f-4786-818c-3c441f920d7b",
+      "name": "工具重铸",
+      "nameEn": "Re-Tooled",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Tool",
+        "Pygmalien",
+        "Jules",
+        "Mak",
+        "Vanessa",
+        "Dooley",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/cee8453ac45e8a913ce685384e265f0b97dbe1c7@256.webp?v=6"
+    },
+    {
+      "id": "69336595-1135-4e17-8192-247e0478d020",
+      "name": "左侧连动",
+      "nameEn": "Lefty Loosey",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Jules",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Stelle",
+        "Haste"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/16d7919345c2373358ea4d73d3f387d5e4bfa3d8@256.webp?v=6"
+    },
+    {
+      "id": "25c63d19-8254-47f8-acc9-519ee5a69e1f",
+      "name": "左撇子",
+      "nameEn": "Left-Handed",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Jules",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Dooley",
+        "Vanessa",
+        "Pygmalien",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/50f41ed676908c369d926a49183c37fe4651ff62@256.webp?v=6"
+    },
+    {
+      "id": "00f1ae18-33a6-499d-b2ea-319ac3debab9",
+      "name": "左眼",
+      "nameEn": "Left Eye",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/4035d14b089ee337cbf41f1c490040dc1bf2abba@256.webp?v=6"
+    },
+    {
+      "id": "b2cc190c-ddbd-487c-b99a-ed21150b6c10",
+      "name": "巧克力迷",
+      "nameEn": "Chocoholic",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Health"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/010e642554117f6b3e91b55bd207d0347f3216e3@256.webp?v=6"
+    },
+    {
+      "id": "f380f03c-3c71-4cae-b423-43fa31a5c3a3",
+      "name": "巨炮",
+      "nameEn": "Big Guns",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Dooley",
+        "Jules",
+        "Vanessa",
+        "Mak",
+        "Pygmalien",
+        "Stelle",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/aea0337cd49593015d074b3a737fc9998288fe1f@256.webp?v=6"
+    },
+    {
+      "id": "1df8d85a-9095-4ab9-952a-c668a4d5d51c",
+      "name": "带电外壳",
+      "nameEn": "Electrified Hull",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Dooley",
+      "tags": [
+        "Skill",
+        "Dooley",
+        "Stelle",
+        "ShieldReference",
+        "Charge"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3876f10981ec68451cd0fc2d08af153c2c18a442@256.webp?v=6"
+    },
+    {
+      "id": "0045d15e-ac74-436f-a200-eeedab7baf90",
+      "name": "幕后交易",
+      "nameEn": "Backroom Dealings",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Mak",
+        "Health"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/ac19c7cb0c3d82ad451eb15cdce3816e3c43d678@256.webp?v=6"
+    },
+    {
+      "id": "f3f43bb9-1177-458f-8244-aaf409a050dd",
+      "name": "平衡友谊",
+      "nameEn": "Balanced Friendship",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Friend",
+        "Vanessa",
+        "Dooley",
+        "ShieldReference",
+        "DamageReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a98c9db63d11103292d01b14276551c88128de86@256.webp?v=6"
+    },
+    {
+      "id": "ca3da34f-a982-4ae4-bea0-8dddac873650",
+      "name": "库存充足",
+      "nameEn": "Stocked",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Potion",
+        "Mak",
+        "PotionReference",
+        "Ammo"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/df76d76640120434039af7d2501134634d6a848b@256.webp?v=6"
+    },
+    {
+      "id": "158c1575-71c6-406c-82c9-f4435d9b37ca",
+      "name": "应急护盾",
+      "nameEn": "Emergency Shield",
+      "description": null,
+      "tier": "Diamond",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Dooley",
+        "Stelle",
+        "Jules",
+        "Shield"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3c056044b311d83511f651a869a941f87d919867@256.webp?v=6"
+    },
+    {
+      "id": "d179345d-953d-4c59-a324-5c2504951644",
+      "name": "应急治疗",
+      "nameEn": "Emergency Draught",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Mak",
+        "Jules",
+        "Regen"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/0a600d86196f2a3fefccee0cc330784c424c2dd3@256.webp?v=6"
+    },
+    {
+      "id": "280eb842-0600-4f2c-bbf9-01926b43f1dc",
+      "name": "应急灼烧",
+      "nameEn": "Emergency Burn",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Jules",
+        "Stelle",
+        "Mak",
+        "Pygmalien",
+        "Burn"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/0e0ed70e56cf9cd1021ba5bcb9e83cd27fd06cb4@256.webp?v=6"
+    },
+    {
+      "id": "bead31da-27fe-4056-ab77-1adbb37bb973",
+      "name": "开张营业",
+      "nameEn": "Open for Business",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "Income"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/5189ca78f368de60602e478264a57bb44efa0d1c@256.webp?v=6"
+    },
+    {
+      "id": "ffceb0c7-7913-4339-8013-f1bcc67cca9c",
+      "name": "引火者",
+      "nameEn": "Firestarter",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Burn"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/6ce1cc3ff2ed3551df813d3342f27d29c0b5b884@256.webp?v=6"
+    },
+    {
+      "id": "08db2099-a4a9-4d95-afad-e86d4abbf829",
+      "name": "弱点毒素",
+      "nameEn": "Exposing Toxins",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Vanessa",
+      "tags": [
+        "Skill",
+        "Vanessa",
+        "Dooley",
+        "Mak",
+        "PoisonReference",
+        "Crit"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/b73a1382546e0bb232e0684bf1f07e41538da852@256.webp?v=6"
+    },
+    {
+      "id": "52f43602-8404-4a38-9d16-b1845489851c",
+      "name": "弹药储存箱",
+      "nameEn": "Ammo Stash",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Common",
+      "tags": [
+        "Skill",
+        "Common",
+        "Ammo"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/2a04bc3e7650c8fed95f8d715bf74cf63d5c5d79@256.webp?v=6"
+    },
+    {
+      "id": "31e244c7-e013-4e6c-a51c-4f0ca8d10472",
+      "name": "强健手臂",
+      "nameEn": "Strong Arm",
+      "description": null,
+      "tier": "Bronze",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Weapon",
+        "Pygmalien",
+        "DamageReference",
+        "EconomyReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/013eaa5e05ef7e411448525583afe5ea2b5073fa@256.webp?v=6"
+    },
+    {
+      "id": "2aabac27-fb64-44df-96f5-b1dac0b23b1c",
+      "name": "强化护盾",
+      "nameEn": "Hardened Shield",
+      "description": null,
+      "tier": "Gold",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Pygmalien",
+        "Dooley",
+        "Stelle",
+        "Jules",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/3e03bcb330cf7449381790eb4e184207c01ca588@256.webp?v=6"
+    },
+    {
+      "id": "3d75530d-ebad-46fa-a0da-04df6cdb9e5a",
+      "name": "强化钢",
+      "nameEn": "Reinforced Steel",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Pygmalien",
+      "tags": [
+        "Skill",
+        "Property",
+        "Pygmalien",
+        "DamageReference",
+        "ShieldReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/af247cba6ea03b31bcffd2b0da9c5d79645a035a@256.webp?v=6"
+    },
+    {
+      "id": "edb9b01b-b4ce-4a77-848e-0a49b8a23c16",
+      "name": "强效药液",
+      "nameEn": "Potent Potables",
+      "description": null,
+      "tier": "Silver",
+      "hero": "Mak",
+      "tags": [
+        "Skill",
+        "Potion",
+        "Mak",
+        "PotionReference",
+        "PoisonReference",
+        "BurnReference"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e2942ea21668e45ee6b0ec0df25b78d06596ae00@256.webp?v=6"
+    }
+  ]
+}

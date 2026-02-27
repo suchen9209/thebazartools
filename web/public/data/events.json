@@ -1,0 +1,118 @@
+{
+  "source": "bazaardb.gg",
+  "updatedAt": "2026-02-26T10:13:04.523Z",
+  "total": 8,
+  "data": [
+    {
+      "id": "1e511488-af8e-4852-a46a-0f27a2b07aac",
+      "name": "丛林遗迹",
+      "nameEn": "Jungle Ruins",
+      "description": {
+        "Text": "你在丛林中发现了废弃的遗迹。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Common",
+        "Damage"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7e9b568c81a7ec06a03b064da735ff585e651be3@256.webp?v=6"
+    },
+    {
+      "id": "054e937d-553e-41a5-951b-62550f870f93",
+      "name": "佐西玛",
+      "nameEn": "Zosima",
+      "description": {
+        "Text": "传授专属于马克的技能"
+      },
+      "tags": [
+        "EventEncounter",
+        "Mak"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7c8c0d53803c92c1fa647817db68c9e7883c9bd6@256.webp?v=6"
+    },
+    {
+      "id": "778c3493-54c3-45bd-8c1b-f410c5ceb937",
+      "name": "倒影池",
+      "nameEn": "Reflecting Pool",
+      "description": {
+        "Text": "来自过去的回声。来自未来的预兆。"
+      },
+      "tags": [
+        "EventEncounter",
+        "Mak"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/7c2cf1a2e839e56dd849626148d2898e922c2d10@256.webp?v=6"
+    },
+    {
+      "id": "c4e01347-bcbc-e164-c848-544774f80599",
+      "name": "农娜",
+      "nameEn": "Nonna",
+      "description": {
+        "Text": "传授朱尔斯技能"
+      },
+      "tags": [
+        "EventEncounter",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/9769564bf7761835f99baae7363bda6887f11511@256.webp?v=6"
+    },
+    {
+      "id": "a4fa13f8-6beb-4b6c-839b-60af167628d9",
+      "name": "凯夫军械库",
+      "nameEn": "Kev's Armory",
+      "description": {
+        "Text": "出售生命值和护盾物品"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Dooley",
+        "Vanessa",
+        "Pygmalien",
+        "Jules",
+        "Stelle"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/84845fc163d41901b4bef9c0a61b6c5a683d0314@256.webp?v=6"
+    },
+    {
+      "id": "9fc8b5a3-f522-4999-b310-26a0fadc7708",
+      "name": "加瑟奥",
+      "nameEn": "Gaseo",
+      "description": {
+        "Text": "出售任意英雄的服饰"
+      },
+      "tags": [
+        "EventEncounter",
+        "Merchant",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/68a4bda200227045225836da2d5c0823ed4e292b@256.webp?v=6"
+    },
+    {
+      "id": "210003fa-a20d-4ad1-9ada-d5fad5bf9f89",
+      "name": "努夫",
+      "nameEn": "Nufu",
+      "description": {
+        "Text": "出售技能"
+      },
+      "tags": [
+        "EventEncounter",
+        "Common"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/e77dab31ad18fd37230b216d251c2f11b379f7a6@256.webp?v=6"
+    },
+    {
+      "id": "2d23952b-f0e4-4a7a-ac65-11c7def01679",
+      "name": "劳雷尔的梦魇",
+      "nameEn": "Laurel's Night Terrors",
+      "description": {
+        "Text": "安慰劳雷尔"
+      },
+      "tags": [
+        "EventEncounter",
+        "Jules"
+      ],
+      "imageUrl": "https://s.bazaardb.gg/v1/z11.0/a2059479a8424d4fefe46a45e632059f5903478f@256.webp?v=6"
+    }
+  ]
+}
